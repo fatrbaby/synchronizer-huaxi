@@ -1,0 +1,12 @@
+{
+    "require": {
+        "slim/slim": "^3.0.0",
+        "devster/ubench": "^2.1.0",
+        "symfony/console": "^3.0.0"
+    },
+    "autoload": {
+        "psr-4":{
+            "Bridge\\": "src/Bridge"
+        }
+    }
+}
